@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+ }
+
+img {
+    width: 50em;
+}
+
+label {
+    margin: 0;
+}
+
+h4 {
+    margin: 0 0 10px 0;
+}
+
+.container {
+    text-align: center;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+}
+
+#header {
+    padding: 40px 0;
+    width: 20em;
+    align-items: center;
+    display: inline-block;
+    background-image: url("img/Foreign-currencies-58c5b0253df78c353c57c52f.jpg")
+}
+
+.start-opt-style {
+    margin-bottom: 25px;
+}
+
+.end-opt-style {
+    margin-bottom: 35px;
+}
